@@ -1,0 +1,4 @@
+--
+-- See also ../sqlpath/desc.sql
+--
+-- Also used by ../schema_to_neato
